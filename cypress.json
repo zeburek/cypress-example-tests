@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://dev-intest.timeto.space/ui",
+  "experimentalNetworkStubbing": true
+}

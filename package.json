@@ -1,0 +1,17 @@
+{
+  "name": "cypress-example-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:test": "cypress run",
+    "test": "npm run cypress:test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.3.0"
+  }
+}
